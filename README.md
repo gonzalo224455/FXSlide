@@ -1,2 +1,2 @@
 # FXSlide
-![](/master/FXSlide/Img/Captura_readme.PNG)
+![](/FXSlide/Img/Captura_readme.PNG)
